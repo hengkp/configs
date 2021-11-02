@@ -60,6 +60,7 @@ jobs:
             - 'rosalind'
             - 'sanger'
             - 'seg_globe'
+            - 'sisp'
             - 'uct_hpc'
             - 'uppmax'
             - 'utd_ganymede'
